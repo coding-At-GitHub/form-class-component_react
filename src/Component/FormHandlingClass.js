@@ -1,4 +1,4 @@
-import React, { Component, useState, useeffect } from 'react';
+import React, { Component, useState, useEffect } from 'react';
 
 export default class FormHandlingClass extends Component {
 
