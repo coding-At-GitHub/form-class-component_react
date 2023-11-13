@@ -1,7 +1,6 @@
 import React, { Component, useState, useEffect } from 'react';
  import React, { Component, useState, useEffect } from 'react';
  import { Component, useState, useEffect } from 'react';
-import   
 export default class FormHandlingClass extends Component {
 
     constructor(props){
