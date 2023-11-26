@@ -63,6 +63,7 @@ export default class FormHandlingClass extends Component {
          <p>Form Handling with  class </p>
 <p>Form  with components  </p>
 <p>Form  component   </p>
+         <p>Form Handling with  compensation </p>
          
                <form onSubmit={(e)=>{this.handleSubmit(e)}}>
                <table>
