@@ -61,6 +61,9 @@ export default class FormHandlingClass extends Component {
          <h1>Form Handling with Class Component</h1>
              <p>Form Handling with   </p>
          <p>Form Handling with  class </p>
+<p>Form  with components  </p>
+<p>Form  component   </p>
+         
                <form onSubmit={(e)=>{this.handleSubmit(e)}}>
                <table>
                     <tr><td> First Name</td><td><input type='text' name='Fname' value={this.state.Fname} onChange={(e) => {this.setState({[e.target.name]:e.target.value})}} /> {this.state.Fname}</td></tr>
